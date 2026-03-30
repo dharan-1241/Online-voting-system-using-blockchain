@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f308dce4-852f-4aed-a63c-12233c8b11cc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2acO5CuM6zUJ3OiLl5ANKvUSMMN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="F:/Python Template/Hospital" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Fantasy-PC\PycharmProjects\FaceVoteNew\static\upload" />
+      <recent name="C:\Users\Fantasy-PC\PycharmProjects\FaceVoteNew" />
+      <recent name="C:\Users\Fantasy-PC\PycharmProjects\FaceVoteNew\templates" />
+      <recent name="C:\Users\Fantasy-PC\PycharmProjects\FaceVoteNew\static" />
+      <recent name="C:\Users\Fantasy-PC\PycharmProjects\FaceVoteNew\orginal" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FACE_VOTE_PY" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/App.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f308dce4-852f-4aed-a63c-12233c8b11cc" name="Default Changelist" comment="" />
+      <created>1704614214964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704614214964</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1259" height="145" key="GridCell.Tab.0.bottom" timestamp="1774379864884">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1259" height="145" key="GridCell.Tab.0.bottom/0.0.1280.672@0.0.1280.672" timestamp="1774379864884" />
+    <state width="1259" height="145" key="GridCell.Tab.0.center" timestamp="1774379864884">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1259" height="145" key="GridCell.Tab.0.center/0.0.1280.672@0.0.1280.672" timestamp="1774379864884" />
+    <state width="1259" height="145" key="GridCell.Tab.0.left" timestamp="1774379864884">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1259" height="145" key="GridCell.Tab.0.left/0.0.1280.672@0.0.1280.672" timestamp="1774379864884" />
+    <state width="1259" height="145" key="GridCell.Tab.0.right" timestamp="1774379864884">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state width="1259" height="145" key="GridCell.Tab.0.right/0.0.1280.672@0.0.1280.672" timestamp="1774379864884" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1773556948834">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.672@0.0.1280.672" timestamp="1773556948834" />
+    <state x="341" y="160" key="com.intellij.ide.util.TipDialog" timestamp="1774379680332">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="341" y="160" key="com.intellij.ide.util.TipDialog/0.0.1280.672@0.0.1280.672" timestamp="1774379680332" />
+  </component>
+</project>
